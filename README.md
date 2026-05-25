@@ -9,7 +9,7 @@ A static website hosted on AWS S3 with CloudFront CDN.
 - Access logging to a separate S3 bucket
 
 ## Live URL
-https://d3tx5ei6m9w05z.cloudfront.net/
+(https://d26skithj5pp9y.cloudfront.net/)
 
 ## Services used
 - Amazon S3
